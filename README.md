@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### I'm currently learning Python
 ### I'm working on training projects to improve
+### Currently used libraries:
+###   - Numpy
+###   - MatPlotLib
 
 <!--
 **Aprika/Aprika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
