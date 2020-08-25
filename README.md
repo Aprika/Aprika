@@ -1,3 +1,5 @@
+![Landscape](https://ahbelab.files.wordpress.com/2015/10/long-take-1.jpg?w=922&h=337)
+
 # Hi there 👋
 I'm currently learning Python
 I'm working on training projects to improve
