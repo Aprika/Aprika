@@ -1,11 +1,12 @@
-### Hi there 👋
-### I'm currently learning Python
-### I'm working on training projects to improve
+# Hi there 👋
+I'm currently learning Python
+I'm working on training projects to improve
 
-### Currently used libraries:
-###   - Numpy
-###   - MatPlotLib
-###   - Pandas
+## Currently used libraries:
+* Numpy
+* MatPlotLib
+* Pandas
+* Scikitlearn
 
 <!--
 **Aprika/Aprika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
