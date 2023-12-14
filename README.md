@@ -1,5 +1,5 @@
-![Landscape](![69e2b1f87efc1f929e36affb7d5f5f01](https://github.com/Aprika/Aprika/assets/69417625/4c9bbf8d-cf8a-4eec-9825-52b7024ad666)
-)
+<img src="https://github.com/Aprika/Aprika/assets/69417625/d3f04eb6-8370-4a83-b7bd-20552071234d" width="200">
+
 
 # Hi there 👋
 I'm currently learning Python.
