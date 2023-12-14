@@ -2,8 +2,8 @@
 
 
 # Hi there 👋
-I'm currently learning Python.
-I'm working on training projects to improve
+I am a Computational Linguistics student. My main programming language is Python, but I also studied SQL and Java. 
+I'm working on training projects to improve 
 
 ## Currently used libraries:
 * Numpy
