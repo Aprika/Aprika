@@ -1,4 +1,5 @@
-![Landscape](https://wallup.net/wp-content/uploads/2018/09/26/635067-landscape-mountains-clouds-forest-nature-sunlight-snowy_peak.jpg)
+![Landscape](![69e2b1f87efc1f929e36affb7d5f5f01](https://github.com/Aprika/Aprika/assets/69417625/4c9bbf8d-cf8a-4eec-9825-52b7024ad666)
+)
 
 # Hi there 👋
 I'm currently learning Python.
