@@ -1,4 +1,4 @@
-<img src="https://github.com/Aprika/Aprika/assets/69417625/d3f04eb6-8370-4a83-b7bd-20552071234d" width="800">
+<img src="https://github.com/Aprika/Aprika/assets/69417625/d3f04eb6-8370-4a83-b7bd-20552071234d" width="1000" height="200">
 
 
 # Hi there 👋
