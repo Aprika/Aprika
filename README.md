@@ -1,4 +1,4 @@
-![Landscape](https://ahbelab.files.wordpress.com/2015/10/long-take-1.jpg?w=922&h=337)
+![Landscape](https://wallup.net/wp-content/uploads/2018/09/26/635067-landscape-mountains-clouds-forest-nature-sunlight-snowy_peak.jpg)
 
 # Hi there 👋
 I'm currently learning Python.
